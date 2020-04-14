@@ -6,25 +6,21 @@
 Aplicação com intuito didático, desenvolvida com ReactJs na arquitetura flux com redux e redux-saga.
 
 
-# O que foi feito?
+# O que é?
 💻 É uma simulação de um e-commerce onde você consegue adicionar e remover itens do carrinho de compras e todo o processo de contagem dos produtos e requisições são processadas atraves do redux e saga.
 
-## :camera: Video:
+## :camera: Veja:
 
-### Front-end
-![ShoesStore VIDEO](src/assets/video.mp4)
-<video src="src/assets/video.mp4" width="320" height="200" controls preload></video>
+### Resultado!
+![ShoesStore GIF](/src/assets/shoesstore.gif)
 
 ## :rocket: Tecnologias
 
 <table>
   <thead>
-    <th>Back-end</th>
+    <th>ReactJS</th>
   </thead>
   <tbody>
-    <tr>
-      <td>ReactJS</td>
-    </tr>
     <tr>
       <td>Styled-Components</td>
     </tr>
