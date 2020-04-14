@@ -9,11 +9,11 @@ Aplicação com intuito didático, desenvolvida com ReactJs na arquitetura flux 
 # O que foi feito?
 💻 É uma simulação de um e-commerce onde você consegue adicionar e remover itens do carrinho de compras e todo o processo de contagem dos produtos e requisições são processadas atraves do redux e saga.
 
-## :camera: Veja:
+## :camera: Video:
 
 ### Front-end
 ![ShoesStore VIDEO](src/assets/video.mp4)
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<video src="src/assets/video.mp4" width="320" height="200" controls preload></video>
 
 ## :rocket: Tecnologias
 
